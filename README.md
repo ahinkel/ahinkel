@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Austin Hinkel, Ph.D.
+- 👀 I’m interested in Astrophysics and data science for social good.
+- 🌱 I’m currently learning how to github.
+- 💞️ I’m looking to collaborate on any project which helps to meet a United Nations Sustainable Development Goal, broadly construed, including working on climate action, health equity, etc.  I am particularly interested in applying data science towards these goals.
+- 📫 How to reach me: I currently work at Colorado College in Colorado Springs, CO.  You can find my institutional email address on the Colorado College website.
+
+<!---
+ahinkel/ahinkel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
