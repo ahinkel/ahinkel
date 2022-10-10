@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Austin Hinkel, Ph.D. I teach Physics and Astronomy at Colorado College.
-- 👀 I’m interested in Astrophysics and data science for social good.
+- 👀 I’m interested in Astrophysics and applying data science for social good.
 - 🌱 I’m currently learning how to github.
 - 💞️ I’m looking to collaborate on any project which helps to meet a United Nations Sustainable Development Goal, broadly construed, including working on climate action, health equity, etc.  I am particularly interested in applying data science towards these goals.
 - 📫 How to reach me: I currently work at Colorado College in Colorado Springs, CO.  You can find my institutional email address on the Colorado College website.
