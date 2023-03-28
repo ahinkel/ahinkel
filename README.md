@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Austin Hinkel.  I teach Physics and Astronomy at Colorado College. 
+- 👋 Hi, I’m Austin Hinkel.  I teach Physics and Astronomy at Colorado College. Starting in Fall 2023, I'll be teaching at Thomas More University.
 - 👀 I’m interested in Astrophysics and applying data science for social good. 
 - 🌱 I’m currently learning more about neural networks and how to make a simple github website. 
 - 💼 I'm currently working on new probes of Galactic structure, with an interest in understanding more about dark matter and the history of the Milky Way Galaxy. 
