@@ -7,7 +7,6 @@
 
 For more, including my CV, see: [https://ahinkel.github.io](https://ahinkel.github.io) (I need to update this!)
 
-
 <!---
 ahinkel/ahinkel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 You can click the Preview link to take a look at your changes. 
