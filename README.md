@@ -6,7 +6,7 @@
 - 📫 How to reach me: I currently work at Thomas More University in Crestview Hills, KY.  You can reach me at my institutional email address, which is (my lastname)(my first name initial)(at)(thomasmore.edu). 
 - 📚 I'm currently reading: *Universities on Fire: Higher Education in the Climate Crisis* by Bryan Alexander.
 
-For more, including my CV, see: [https://ahinkel.github.io](https://ahinkel.github.io) (I need to update this!)
+For more, including my CV, see: [https://ahinkel.github.io](https://ahinkel.github.io) 
 
 
 <!---
